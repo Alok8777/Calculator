@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.screen{
+  height: 40px;
+  width:  150px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
